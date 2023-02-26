@@ -119,3 +119,67 @@ h2 {
 .about + a {
     color: rgb(150, 56, 2);
 }
+
+
+
+
+.parents {
+    font-size: 0px;
+    text-align: left;
+    margin-top: 20px;
+    }
+    .child-yellow {
+        width: 400px;
+        height: 200px;
+        display: inline-block;
+        border: 1px solid red;
+        font-size: 18px;
+        background: yellow;
+    }
+    .child-blue-1 {
+        font-size: 18px;
+        display: inline-block;
+        background: blue;
+        border: 1px solid red;
+        width: 400px;
+        height: 198px;
+        vertical-align: top;
+    }
+    .child-blue-2 {
+        font-size: 18px;
+        display: inline-block;
+        background: blue;
+        border: 1px solid red;
+        width: 800px;
+        height: 198px;
+    }
+    .block-blue-1 {
+        height: 99px;
+        border: 1px solid red;
+    }
+    .block-blue-2 {
+        height: 66px;
+        border: 1px solid red;
+    }
+    .child-red-1 {
+        font-size: 18px;
+        display: inline-block;
+        background: rgb(119, 43, 43);
+        border: 1px solid red;
+        width: 800px;
+        height: 200px;
+        vertical-align: top;
+    }
+    .child-red-2 {
+        font-size: 18px;
+        display: inline-block;
+        background: rgb(119, 43, 43);
+        border: 1px solid red;
+        width: 400px;
+        height: 200px;
+        vertical-align: top;
+    }
+    .block-red-1 {
+        height: 100px;
+        border: 1px solid red;
+    }
